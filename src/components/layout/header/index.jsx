@@ -35,7 +35,7 @@ function Header() {
   };
 
   return (
-    <header className="border-b bg-orange-100  min-h-[60px] px-10 py-3 relative tracking-wide relative z-50">
+    <header className="border-b bg-sky-50  min-h-[60px] px-10 py-3 relative tracking-wide relative z-50">
       <div className="flex flex-wrap items-center max-lg:gap-y-6 max-sm:gap-x-4">
         <Link to="/">
           <img
